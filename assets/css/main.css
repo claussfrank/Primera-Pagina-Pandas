@@ -1,0 +1,46 @@
+body{
+  background-:#FFFDE7;
+}
+*{
+  font-family: 'Arimo', sans-serif;
+  font-size: 20px;
+
+}
+ul {
+  background-color:#AEEA00;
+}
+li{
+  display: inline-block;
+  padding:10px;
+  list-style: none;
+}
+a{
+  color:whitesmoke;
+  text-decoration: none;
+  padding: 10px;
+}
+a:hover{
+  color:#CCFF90;
+}
+span{
+  color:red;
+  margin:0px 100px;
+}
+.imagen{
+  border: solid 5px;
+  border-color:#AEEA00;
+}
+.divImagen{
+  display: inline-block;
+  margin-left: 50px;
+  text-align: center;
+}
+.buttonClass{
+  text-align:  center;
+  margin-top: 20px
+}
+button{
+  width: 300px;
+  height:50px;
+
+}
